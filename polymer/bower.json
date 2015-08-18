@@ -1,0 +1,19 @@
+{
+  "name": "polymer_test",
+  "version": "0.0.0",
+  "homepage": "https://github.com/masato5776/devel",
+  "authors": [
+    "MASATO HAYASHI <masato.hayashi.57@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
